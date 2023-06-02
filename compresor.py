@@ -3,7 +3,7 @@ from PIL import Image
 
 import os 
 
-downloadsFolder = "C:\Users\basti\Desktop\programacion\imagenes"
+downloadsFolder = "C:/Users/basti/Desktop/programacion/imagenes"
 
 if __name__ == "__main__":
     for filename in os.listdir(downloadsFolder):
